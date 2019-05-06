@@ -1,0 +1,12 @@
+{
+  "workbench.colorTheme": "Atom One Dark",
+  "editor.fontFamily": "Fira Code",
+  "workbench.fontAliasing": "antialiased",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 15,
+  "window.zoomLevel": 0.5,
+  "editor.minimap.enabled": false,
+  "workbench.iconTheme": "vscode-icons",
+  "editor.tabSize": 2,
+  "workbench.editor.highlightModifiedTabs": true
+}
